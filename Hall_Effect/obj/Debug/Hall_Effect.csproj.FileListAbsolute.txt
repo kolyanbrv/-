@@ -1,0 +1,44 @@
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.exe.config
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.exe
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.pdb
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.MainForm.resources
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.Properties.Resources.resources
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.csproj.GenerateResource.Cache
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.exe
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.pdb
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.csprojResolveAssemblyReference.cache
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.HallForm.resources
+C:\Users\khrit\OneDrive\Documents\Visual Studio 2017\Projects\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.OhmForm.resources
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.exe.config
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.exe
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.pdb
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.csprojResolveAssemblyReference.cache
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.OhmForm.resources
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.HallForm.resources
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.MainForm.resources
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.Properties.Resources.resources
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.csproj.GenerateResource.Cache
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.exe
+C:\Users\khrit\Desktop\Porter Ray - Watercolor (2017) [CD 320]\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.pdb
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.exe.config
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.exe
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.pdb
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.csprojResolveAssemblyReference.cache
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.OhmForm.resources
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.HallForm.resources
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.MainForm.resources
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.Properties.Resources.resources
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.csproj.GenerateResource.Cache
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.exe
+C:\Users\khrit\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.pdb
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.exe.config
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.exe
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.pdb
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.exe
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\bin\Debug\Hall_Effect.pdb
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.csprojResolveAssemblyReference.cache
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.OhmForm.resources
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.HallForm.resources
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.MainForm.resources
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.Properties.Resources.resources
+C:\Users\Колян\Desktop\Hall_Effect\Hall_Effect\obj\Debug\Hall_Effect.csproj.GenerateResource.Cache
